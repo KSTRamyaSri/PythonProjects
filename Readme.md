@@ -11,6 +11,7 @@ While these projects start as clean terminal or console applications, they are a
 | Project Name | Brief Description | Tech Stack | Link |
 | :--- | :--- | :--- | :--- |
 | **🤖 Chitti: AI Storybook** | An interactive chatbot that uses prompt engineering to co-create basic-English children's fables with custom dialogue, morals, and ASCII art. | Python, `google-genai`, Gemini 2.5, `dotenv` | [View Project](./Project1/) |
+| **🎯 Number Guessing Game** | A highly visual, modular console game with stateful win/loss trackers, dynamic loading bars, and structural error handling inputs. | Python (Standard Libraries) | [View Project](./Project2/) |
 
 ---
 
