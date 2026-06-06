@@ -10,9 +10,12 @@ While these projects start as clean terminal or console applications, they are a
 
 | Project Name | Brief Description | Tech Stack | Link |
 | :--- | :--- | :--- | :--- |
-| **🤖 Chitti: AI Storybook** | An interactive chatbot that uses prompt engineering to co-create basic-English children's fables with custom dialogue, morals, and ASCII art. | Python, `google-genai`, Gemini 2.5, `dotenv` | [View Project](./Project1/) |
-| **🎯 Number Guessing Game** | A highly visual, modular console game with stateful win/loss trackers, dynamic loading bars, and structural error handling inputs. | Python (Standard Libraries) | [View Project](./Project2/) |
-| **🎲 Dice Simulator** | A probability physics tool that calculates matrix vectors and renders multi-dice structures horizontally using text layouts. | Python (Standard Libraries) | [View Project](./Project3/) |
+| **Chitti: AI Storybook** | An interactive chatbot that uses prompt engineering to co-create basic-English children's fables with custom dialogue, morals, and ASCII art. | Python, `google-genai`, Gemini 2.5, `dotenv` | [View Project](./Project1/) |
+| **Number Guessing Game** | A highly visual, modular console game with stateful win/loss trackers, dynamic loading bars, and structural error handling inputs. | Python (Standard Libraries) | [View Project](./Project2/) |
+| **Dice Simulator** | A probability physics tool that calculates matrix vectors and renders multi-dice structures horizontally using text layouts. | Python (Standard Libraries) | [View Project](./Project3/) |
+| **Retro Hangman Game** | A stateful word puzzle game utilizing index-mapped 2D graphics matrices, set membership evaluations, and strict character validation filters. | Python (Standard Libraries) | [View Project](./Project4/) |
+| **Rock Paper Scissors** | A fast tournament console engine utilizing data-driven matrix mapping design rules and horizontal line-stitching graphic renders. | Python (Standard Libraries) | [View Project](./Project5/) |
+| **Password Generator** | A cryptographically sound key generator utilizing true OS-level entropy modules and guaranteed parameter inclusion filters. | Python (Standard Libraries) | [View Project](./Project6/) |
 
 ---
 
